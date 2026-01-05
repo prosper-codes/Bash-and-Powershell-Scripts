@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Author: Takunda Nhau
+# Date Created: 05/01/2026
+# Last MOdified: 05/01/2026
+
+# Description
+# Prints "Hello world, This is my first script" to the terminal
+
+# Usage
+# type-> ./my_first_Script
+
+
+echo "Hello word , This is my First script"
+exit 0
