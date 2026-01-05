@@ -8,7 +8,7 @@
 # Prints "Hello world, This is my first script" to the terminal
 
 # Usage
-# type-> ./my_first_Script
+# my_first_Script
 
 
 echo "Hello word , This is my First script"
