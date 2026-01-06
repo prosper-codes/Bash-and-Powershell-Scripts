@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Job Application Details
+NAME="Takunda Nhau"
+AGE=30
+POSITION="Software Developer"
+COMPANY="Google Inc."
+GREETING="Dear Hiring Manager,"
+APPLICATION_MESSAGE="I am excited to apply for the position of $POSITION at $COMPANY. With my background in software development and my passion for problem-solving, I am confident that I would be a great addition to your team."
+CONTACT="You can reach me at takunda@email.com or call me at +48 453-456-455 for any further information."
+
+# Output the job application
+echo "$GREETING"
+echo ""
+echo "My name is $NAME, and I am $AGE years old."
+echo "I am applying for the position of $POSITION at $COMPANY."
+echo ""
+echo "$APPLICATION_MESSAGE"
+echo ""
+echo "$CONTACT"
+echo ""
+echo "I look forward to the opportunity to discuss my application further. Thank you for considering my application."
+echo "Sincerely,"
+echo "$NAME"
+
+exit 0
