@@ -5,10 +5,17 @@
 # Last Modified: 05/01/2026
 
 # Description:
-# Creates a  backup in ~/Documents/scripts/backup folder for all files in the home directory
+# Creates a  backup in ~/Documents/scripts/backup folder for all files in the Documents directory
 
 # Usage:
 # backup_script
 
-tar -cvf ~/Documents/scripts/bash_scripts_"$(date +%d-%m-%Y_%H-%M-%S)".tar ~/* 2>/dev/null
+
+echo  "Hello ${USER}"
+echo "I will now backup your documents directory, $HOME/Documents"
+
+tar -cvf ~/Documents/scripts/bash_scripts_"$(date +%d-%m-%Y_%H-%M-%S)".tar ~/Documents/* 2>/dev/null
+
+echo "the directory has ben backed up successfully" 
+
 exit 0
