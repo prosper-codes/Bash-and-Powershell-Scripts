@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 # Author: Takunda Nhau
-# Date Created: 09/01/2026
-# Last Modified: 09/01/2026
+# Date Created: 14/01/2026
+# Last Modified: 14/01/2026
 #
 # Description:
 #   Reads a file line by line and creates a directory for each line.
