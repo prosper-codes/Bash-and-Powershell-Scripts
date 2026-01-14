@@ -1,0 +1,12 @@
+HTTP/1.1 520 <none>
+Date: Wed, 14 Jan 2026 16:44:38 GMT
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 15
+Connection: keep-alive
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Referrer-Policy: same-origin
+X-Frame-Options: SAMEORIGIN
+Server: cloudflare
+CF-RAY: 9bde9963dbc8c3c4-WAW
+

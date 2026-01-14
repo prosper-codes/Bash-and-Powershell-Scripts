@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy-Report-Only: object-src 'none';base-uri 'self';script-src 'nonce-wzdHe9K3KSy5u_L-wn2BmA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp
+Date: Wed, 14 Jan 2026 16:44:37 GMT
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Wed, 14 Jan 2026 16:44:37 GMT
+Cache-Control: private
+Set-Cookie: AEC=AaJma5vLpyfc9EV4kfmVqBkT_v5R9jiC3LFgauLDoIcvgd96daHPZqvamFM; expires=Mon, 13-Jul-2026 16:44:37 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax
+Transfer-Encoding: chunked
+

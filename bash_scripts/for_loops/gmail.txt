@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://mail.google.com/mail/u/0/
+Cross-Origin-Resource-Policy: cross-origin
+X-Content-Type-Options: nosniff
+Server: sffe
+Content-Length: 230
+X-XSS-Protection: 0
+Date: Wed, 14 Jan 2026 16:41:29 GMT
+Expires: Wed, 14 Jan 2026 17:11:29 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 189
+
