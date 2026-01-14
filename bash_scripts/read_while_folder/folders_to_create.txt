@@ -1,4 +1,4 @@
-pyhton
+python
 java 
 canva
 mathematics
